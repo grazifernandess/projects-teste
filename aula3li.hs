@@ -7,5 +7,5 @@ fun2 :: Char -> [String] -> [String]
 fun2 _ [] = []
 fun2 char (h:t)
 
-
+'teste'
 
